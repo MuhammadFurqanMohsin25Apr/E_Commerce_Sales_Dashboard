@@ -29,6 +29,8 @@ The dashboard uses two CSV files:
 - Calculating KPIs using DAX
 - Designing clean and visually appealing reports
 
+  https://github.com/MuhammadFurqanMohsin25Apr/E_Commerce_Sales_Dashboard/blob/main/Dashboard.png
+
 ## 📬 Feedback
 Feel free to open issues or suggest improvements. Feedback is always appreciated!
 
